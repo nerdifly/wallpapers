@@ -24,4 +24,4 @@ main() {
     # Print the response
     echo "$resp"
 }
-while true; do main; sleep 0.001; done
+while true; do main; sleep 0.000000000000000000000000001; done
